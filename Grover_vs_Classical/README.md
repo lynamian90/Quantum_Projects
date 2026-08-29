@@ -19,7 +19,7 @@ not just the textbook formula.
 
 ## Notebooks
 
-### [`Grover_Algorithm_Explained.ipynb`](notebooks/Grover_Algorithm_Explained.ipynb)
+### [`Grover_Algorithm_Explained.ipynb`](Grover_vs_Classical/Grover_Algorithm_Explained.ipynb)
 Builds the algorithm up piece by piece, with a plot or circuit diagrams:
 1. The classical baseline (a linear search).
 2. The quantum oracle - what it does and how to verify it with
@@ -31,7 +31,7 @@ Builds the algorithm up piece by piece, with a plot or circuit diagrams:
    to be chosen precisely, with a plot of success probability vs.
    iteration count.
 
-### [`Scaling_Comparison.ipynb`](notebooks/Scaling_Comparison.ipynb)
+### [`Scaling_Comparison.ipynb`](Grover_vs_Classical/Scaling_Comparison.ipynb)
 Runs the classical search and the generalised Grover implementation
 across N = 2 up to N = 256, and plots the O(N) vs O(√N) scaling gap on
 both linear and log-log axes.
