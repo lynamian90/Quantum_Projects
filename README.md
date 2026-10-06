@@ -1,1 +1,1 @@
-This repository contains all my completed and active quantum computing projects organised into relevant folders.
+This repository contains all my completed and active quantum computing projects which are organised into relevant folders.
