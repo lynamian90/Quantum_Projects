@@ -15,10 +15,10 @@ quantum circuits (using Qiskit).
 
 ## Project structure
 
-grover.py                          # Quantum code: oracle, diffuser, circuit builder, runner
-classical.py                       # Classical linear search + benchmark
-Grover_Algorithm_Explained.ipynb   # Conceptual walkthrough
-Scaling_Comparison.ipynb           # O(N) vs O(√N) experiment and plots
+grover.py:                          Quantum code: oracle, diffuser, circuit builder, runner \
+classical.py:                        Classical linear search + benchmark \
+Grover_Algorithm_Explained.ipynb:    Conceptual walkthrough \
+Scaling_Comparison.ipynb:            O(N) vs O(√N) experiment and plots \
 README.md
 
 
